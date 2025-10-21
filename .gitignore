@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.log
+.env
+.env.*
+
+# Virtual environment
+venv/
+venv-test/
+
+# Django stuff
+*.pot
+*.pyc
+db.sqlite3
+*.sqlite3
+*.pyo
+
+# PyCharm
+.idea/
+
+# mypy / coverage / test
+.mypy_cache/
+.pytest_cache/
+.coverage
+htmlcov/

@@ -1,0 +1,7 @@
+-r base.txt
+
+pytest
+pytest-django==4.11.1
+pytest-celery==1.2.1
+pytest-cov
+factory-boy==3.3.3

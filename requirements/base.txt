@@ -1,0 +1,5 @@
+Django==5.2
+djangorestframework==3.16.1
+django-filter==25.2
+celery
+redis==6.4.0
